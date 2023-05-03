@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Attendance NFSU</string>
+    <string name="headerText">Select School, Course and batch</string>
+    <string name="School">Select School</string>
+    <string name="Course">Select Course</string>
+    <string name="batch">Select Batch</string>
+
+    <string-array name="array_school">
+        <item>Select your School</item>
+        <item>SCSDFS</item>
+        <item>SFS</item>
+        <item>SBS</item>
+    </string-array>
+
+    <string-array name="array_default">
+        <item>Select your course</item>
+    </string-array>
+
+    <string-array name="array_SCSDFS_course">
+        <item>Select your course</item>
+        <item>MSc Cyber Security</item>
+        <item>MSc DFIS</item>
+        <item>Mtech Cyber Security</item>
+    </string-array>
+
+    <string-array name="array_SFS_course">
+        <item>Select your course</item>
+        <item>MSc Forensic Science</item>
+        <item>MSc Toxicology</item>
+        <item>MSc Biotechnology</item>
+    </string-array>
+
+    <string-array name="array_SBS_course">
+        <item>Select your course</item>
+        <item>MSc Clinical Psychology</item>
+        <item>MSc Psychology</item>
+    </string-array>
+</resources>
